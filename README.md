@@ -1,2 +1,2 @@
-# belajar-java-sesi-8
+# Belajar Java Sesi 8
 Belajar Java Lambda
